@@ -4,27 +4,19 @@
 
 **GitHub Repository:** https://github.com/faeemansqri/maxoff
 
-### Step 1: Download the Installation Script
+### One-step install
 
-Open Termux and run:
-
-```bash
-curl -O https://raw.githubusercontent.com/faeemansqri/maxoff/main/install-termux.sh
-```
-
-Or manually create the file and paste the installation script.
-
-### Step 2: Make Script Executable
+Run this single command in Termux:
 
 ```bash
-chmod +x install-termux.sh
+curl -fsSL https://raw.githubusercontent.com/faeemansqri/maxoff/main/install-termux.sh | bash
 ```
 
-### Step 3: Run the Installation
-
-```bash
-./install-termux.sh
-```
+This one command will:
+- update Termux packages
+- install Python, pip, and required tools
+- download the latest MaxOff files from GitHub
+- create the `maxoff` launcher command
 
 This will:
 - ✓ Update your package manager
