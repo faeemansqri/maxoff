@@ -2,12 +2,14 @@
 
 ## 📱 Installation Instructions for Termux (Android)
 
+**GitHub Repository:** https://github.com/faeemansqri/maxoff
+
 ### Step 1: Download the Installation Script
 
 Open Termux and run:
 
 ```bash
-curl -O https://raw.githubusercontent.com/your-username/maxoff/main/install-termux.sh
+curl -O https://raw.githubusercontent.com/faeemansqri/maxoff/main/install-termux.sh
 ```
 
 Or manually create the file and paste the installation script.
