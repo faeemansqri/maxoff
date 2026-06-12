@@ -9,6 +9,10 @@ from rich.text import Text
 from rich.align import Align
 from rich import box
 
+# MaxOff - OSINT Phone Information Tool
+# GitHub: https://github.com/faeemansqri/maxoff
+# Created by: Mando
+
 console = Console()
 
 def print_responsive_banner():
