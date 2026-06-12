@@ -20,6 +20,7 @@ echo "║         MAXOFF TERMUX INSTALLER        ║"
 echo "║    OSINT Phone Information Tool        ║"
 echo "║         Created by: Mando             ║"
 echo "╚════════════════════════════════════════╝"
+echo "   GitHub: https://github.com/faeemansqri/maxoff"
 echo -e "${NC}"
 
 # Function to print status messages
